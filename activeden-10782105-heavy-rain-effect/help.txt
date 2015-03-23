@@ -1,0 +1,8 @@
+﻿-This is a loop-able  motion effect frame by frame animation. rate of 30-fps.
+
+-All the graphics are 100% vector so it is completely resizable. Low in size and easy to adapt. This is perfect for ,effect,films,
+ cartoons, movies and webpage or just for fun.
+
+-This animation is in one GraphicClip, so you can easily drag and drop GraphicClip wherever you want from the library.
+
+-This file is for Flash CS3 or later.
