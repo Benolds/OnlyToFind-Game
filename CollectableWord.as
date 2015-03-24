@@ -1,0 +1,1 @@
+﻿package  {	import flash.display.MovieClip;		public class CollectableWord extends MovieClip {		public var lane:String;		public function CollectableWord() {			// constructor code						//this.gotoAndStop(Math.floor(1 + Math.random() * 6));						if (Math.random() < 0.5) {				this.lane = "top";			} else {				this.lane = "bottom";			}		}	}	}
